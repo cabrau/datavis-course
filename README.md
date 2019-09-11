@@ -1,7 +1,7 @@
-## Aula do dia 04/09/2019
+## Aula do dia 04/09/2019 - D3: Data-Driven Documents
 [Notebook](d3_intro/notebook.html)<br>
 
-## Aula do dia 02/09/2019
+## Aula do dia 02/09/2019 - Introdução à Visualização de Dados na Web
 
 [index01.html](basic/index01.html)<br>
 [index02.html](basic/index02.html)<br>
