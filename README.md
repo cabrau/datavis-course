@@ -1,3 +1,6 @@
+## Aula do dia 11/09/2019 - D3: Data-Driven Documents
+[Notebook](d3_scale/notebook.html)<br>
+
 ## Aula do dia 04/09/2019 - D3: Data-Driven Documents
 [Notebook](d3_intro/notebook.html)<br>
 
