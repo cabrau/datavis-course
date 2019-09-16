@@ -1,4 +1,4 @@
-## Aula do dia 11/09/2019 - D3: Data-Driven Documents
+## Aula do dia 11/09/2019 - D3: Escalas e Eixos
 [Notebook](d3_scale/notebook.html)<br>
 
 ## Aula do dia 04/09/2019 - D3: Data-Driven Documents
