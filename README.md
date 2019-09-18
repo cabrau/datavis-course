@@ -1,5 +1,5 @@
 ## Aula do dia 16/09/2019 - D3: Updates e Transições
-[Notebook](d3_update/scatterplot.html)<br>
+[Scatterplot](d3_update/scatterplot.html)<br>
 
 ## Aula do dia 11/09/2019 - D3: Escalas e Eixos
 [Notebook](d3_scale/notebook.html)<br>
