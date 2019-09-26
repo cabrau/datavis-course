@@ -1,3 +1,6 @@
+## Aula do dia 23/09/2019 - D3: Crossfilter e DC.js
+[Notebook](d3_crossfilter/index.html)<br>
+
 ## Aula do dia 16/09/2019 - D3: Updates e Transições
 [Scatterplot](d3_update/scatterplot.html)<br>
 
