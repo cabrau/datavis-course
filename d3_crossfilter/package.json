@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/d3-com-crossfilter-e-dc-js",
+  "main": "d/730735c1105f5c25.js",
+  "version": "202.0.0",
+  "homepage": "https://observablehq.com/@cabrau/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
