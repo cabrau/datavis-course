@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/crimes-in-chicago",
+  "main": "d/879c935a762b2b7e.js",
+  "version": "237.0.0",
+  "homepage": "https://observablehq.com/@cabrau/crimes-in-chicago",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

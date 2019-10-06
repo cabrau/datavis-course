@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/d3-com-crossfilter-e-dc-js-e-leaflet",
+  "main": "d/ec39ac8e9e78d177.js",
+  "version": "179.0.0",
+  "homepage": "https://observablehq.com/@cabrau/d3-com-crossfilter-e-dc-js-e-leaflet",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
