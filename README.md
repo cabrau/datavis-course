@@ -1,3 +1,7 @@
+## Aula do dia 30/09/2019 - Visualização de dados espaciais na Web com D3 e Leaflet
+[Terremotos](d3_leaflet/d3-com-crossfilter-e-dc-js-e-leaflet/index.html)<br>
+[Crimes](d3_leaflet/crimes-in-chicago/index.html)<br>
+
 ## Aula do dia 25/09/2019 - D3: Crossfilter e DC.js (Parte 2)
 [Notebook](d3_crossfilter_2/index.html)<br>
 
