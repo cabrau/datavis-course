@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/similar-song-network",
+  "main": "d/451b02706aa7ed84.js",
+  "version": "56.0.0",
+  "homepage": "https://observablehq.com/@cabrau/similar-song-network",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

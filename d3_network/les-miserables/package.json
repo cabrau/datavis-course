@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/les-miserables",
+  "main": "d/895076d3126b415a.js",
+  "version": "71.0.0",
+  "homepage": "https://observablehq.com/@cabrau/les-miserables",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
