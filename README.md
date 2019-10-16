@@ -1,3 +1,7 @@
+## Aula do dia 09/10/2019 - Visualização de dados espaciais na Web com D3 e Leaflet
+[Les Miserables](d3_network/les-miserables/index.html)<br>
+[Similar songs](d3_network/similar-song-network/index.html)<br>
+
 ## Aula do dia 30/09/2019 - Visualização de dados espaciais na Web com D3 e Leaflet
 [Terremotos](d3_leaflet/d3-com-crossfilter-e-dc-js-e-leaflet/index.html)<br>
 [Crimes](d3_leaflet/crimes-in-chicago/index.html)<br>
