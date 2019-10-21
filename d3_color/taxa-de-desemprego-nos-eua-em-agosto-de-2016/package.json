@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/f23aab192b611e70.js",
+  "version": "59.0.0",
+  "homepage": "https://observablehq.com/@cabrau/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

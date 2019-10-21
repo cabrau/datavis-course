@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/homicidios-em-fortaleza-em-2012",
+  "main": "d/10b58871a990c416.js",
+  "version": "76.0.0",
+  "homepage": "https://observablehq.com/@cabrau/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
