@@ -1,3 +1,8 @@
+## Aula do dia 23/10/2019 - Visualização de dados espaciais na Web com D3 e Leaflet
+[Terremotos Interativo](d3_interactive/d3-com-crossfilter-dc-js-e-leaflet-parte-2-interativo/index.html)<br>
+[Taxa de desemprego nos EUA 2016 Interativo](d3_interactive/taxa-de-desemprego-nos-eua-em-agosto-de-2016-interativo/index.html)<br>
+
+
 ## Aula do dia 16/10/2019 - Visualização de dados espaciais na Web com D3 e Leaflet
 [Homicídios Fortaleza 2012](d3_color/homicidios-em-fortaleza-em-2012/index.html)<br>
 [Taxa de desemprego nos EUA 2016](d3_color/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>
