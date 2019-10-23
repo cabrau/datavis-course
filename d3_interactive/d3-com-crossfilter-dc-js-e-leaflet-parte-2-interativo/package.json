@@ -1,0 +1,14 @@
+{
+  "name": "@cabrau/d3-com-crossfilter-dc-js-e-leaflet-parte-2-interativo",
+  "main": "d/3ec2db6f038e6b03.js",
+  "version": "94.0.0",
+  "homepage": "https://observablehq.com/@cabrau/d3-com-crossfilter-dc-js-e-leaflet-parte-2-interativo",
+  "author": {
+    "name": "Lucas Cabral",
+    "url": "https://observablehq.com/@cabrau"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
